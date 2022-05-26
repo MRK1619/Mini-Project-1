@@ -1,4 +1,4 @@
-#password manager
+# Simple Password manager
 name = input("What Is Your Name ..")
 
 def add():

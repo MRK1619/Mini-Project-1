@@ -1,4 +1,4 @@
-#choose your own Advanture
+#Simple Advanture Game
 
 name=input("Type Your Name: ").upper()
 print("Welcome ",name , "To This Advanture Game!")
