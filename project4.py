@@ -30,4 +30,4 @@ elif answer == "right":
 else:
     print("Not A Valid Option... You Lost The Game...")
 
-print("Thank You For Trying", name)
+print("Thank You For Trying This Game", name)

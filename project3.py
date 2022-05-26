@@ -8,8 +8,8 @@ options = ["rock","paper","scissors"]
 while True:
     user_input = ("Type Rock/Paper/Scissors or Q to Quit: ").lower()
     if user_input=="q":
-        break
-        
+        break  
+      
     if user_input not in options:
         continue
     
