@@ -1,4 +1,4 @@
-#Simple Digital Clock 
+#Simple Digital Clock Making
 from tkinter import*
 from tkinter.ttk import*
 
