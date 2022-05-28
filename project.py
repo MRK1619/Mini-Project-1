@@ -1,4 +1,4 @@
-#Simple Quiz Game
+#Simple Quiz Game Making
 print("Welcome To My Quiz")
 
 playing = input("Do You Want To Play? ")
