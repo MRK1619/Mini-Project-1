@@ -1,4 +1,4 @@
-#Number Guassing Game
+#Number Guassing 
 import random
 
 top_of_range = input("Type a Number:")
