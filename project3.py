@@ -1,4 +1,4 @@
-#Rock Paper Scissor
+#Rock Paper Scissor Game
 import random
 
 user_wins = 0
